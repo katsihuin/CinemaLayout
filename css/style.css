@@ -1,0 +1,53 @@
+
+* {
+	outline: 1px solid green;
+}
+header {
+	background-color:;
+}
+
+.container-fluid .row .col-8 .logo {
+	width: 35%;
+	height: 20%;
+}
+
+.container-fluid .row .col-8 span {
+	color: lightgrey;
+	margin-left: 50px;
+	font-family: arial;
+	font-size: 20px;
+vertical-align: middle;
+	
+}
+
+.search-box input {
+	padding: 5px;
+}
+
+.search-box .fa-search {
+	margin-left: -25px;
+}
+
+
+
+.hero .banner {
+	background: #333 url(../img/banner.jpg) no-repeat;
+	background-size: contain;
+	
+}
+
+
+
+.estrenos img {
+	width: 100%;
+}
+
+.cartelera {
+	width: 100%;
+
+}
+
+.movie-info {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
